@@ -1,3 +1,3 @@
-import zxx 
-from zxx import main
+import zenc 
+from zenc import main
 main()
