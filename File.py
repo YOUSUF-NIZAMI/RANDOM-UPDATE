@@ -1,2 +1,2 @@
-import ZHA
-ZHA.login()
+import zxx
+zxx.login()
