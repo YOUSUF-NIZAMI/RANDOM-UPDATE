@@ -1,2 +1,2 @@
 import ZHA
-ZHA.maindef name()
+ZHA.login()
