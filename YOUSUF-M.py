@@ -1,3 +1,3 @@
 import fuckertop 
-from cythonname import main
+from fuckertop import main
 main()
