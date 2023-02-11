@@ -1,3 +1,3 @@
-import fuckertop 
-from fuckertop import main
+import zxx 
+from zxx import main
 main()
