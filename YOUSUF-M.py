@@ -1,1 +1,3 @@
-import XD
+import fuckertop 
+from cythonname import main
+main()
