@@ -1,2 +1,2 @@
 import FILE
-File.menu()
+FILE.menu()
