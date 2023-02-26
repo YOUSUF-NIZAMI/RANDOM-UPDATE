@@ -1,2 +1,2 @@
-import FILE
-FILE.menu()
+import L
+L.menu()
