@@ -1,3 +1,3 @@
-import YM 
-from YM import YousuF
+import file
+from file import YousuF
 YousuF()
