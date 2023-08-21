@@ -1,3 +1,3 @@
-import zenc 
-from zenc import main
-main()
+import YM 
+from YM import YousuF
+YousuF()
