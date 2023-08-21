@@ -1,2 +1,2 @@
-import YM
-YM.YousuF()
+import file
+file.YousuF()
